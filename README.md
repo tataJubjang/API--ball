@@ -86,7 +86,7 @@ status: "success"
  ```YB
  https://www.facebook.com/Yollayud.C7/](https://www.youtube.com/c/ScriptKingSCK2020
 ```
-
+</details>
 
 ## Environment variables
 
