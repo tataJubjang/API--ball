@@ -1,4 +1,4 @@
-API for checking latest ball-api prices
+API for checking latest ball-api
 
 ## Requirements
 
@@ -23,7 +23,7 @@ $ yarn start
 ## API
 
 
-### Get latest ball prices
+### Get latest ball 
 
 ##### API request
 
@@ -74,9 +74,12 @@ status: "success"
 <details>
 <summary>Facebook</summary>
 
+<h1>
 ```FB
  https://www.facebook.com/Yollayud.C7/
 ```
+</h1>
+
    </details>
   
  </details>
