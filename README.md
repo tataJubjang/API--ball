@@ -70,16 +70,16 @@ st: "ผลเตะเข้าประตู นองต์ส - ลีล�
 them: "ทีมลงแข่ง นองต์ส กับ ลีลล์"
 status: "success"
 ```
- 
+ </details>
 <details>
 <summary>Facebook</summary>
-  
+  </details>
 ```FB
  https://www.facebook.com/Yollayud.C7/
 ```
   
 
-</details>
+
 
 ## Environment variables
 
